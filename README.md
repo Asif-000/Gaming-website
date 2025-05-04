@@ -15,6 +15,7 @@ A modern, responsive gaming website built with HTML, CSS, and JavaScript. This p
 ✨ Auto Animation Activation – JavaScript detects scroll to trigger CSS animations.
 
 📁 Technologies Used
+
 HTML5
 
 CSS3
